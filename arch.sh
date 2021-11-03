@@ -9,7 +9,7 @@
 
 
 apptitle="Arch Linux Fast Install (arch.sh) - Version: 2021.06.05.01.19.05 (GPLv3)"
-baseurl=http://downloads.sourceforge.net/project/archfi/release/2021.06.05.01.19.05
+baseurl="https://github.com/DerZero/autoinstall-arch/arch.sh"
 cpl=0
 skipfont="0"
 fspkgs=""

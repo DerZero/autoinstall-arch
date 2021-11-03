@@ -4,7 +4,6 @@
 # --------------------------------
 # author    : DerZero
 #             https://github.com/DerZero
-#             http://sourceforge.net/u/matmoul
 # project   : https://github.com/DerZero/autoinstall-arch/arch.sh
 # referance : https://wiki.archlinux.org/index.php/Installation_guide
 

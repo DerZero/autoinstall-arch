@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Arch Linux Fast Install (archfi)
+# Arch Linux Fast Install (arch.sh)
 # --------------------------------
 # author    : DerZero
 #             https://github.com/DerZero
@@ -8,7 +8,7 @@
 # referance : https://wiki.archlinux.org/index.php/Installation_guide
 
 
-apptitle="Arch Linux Fast Install (archfi) - Version: 2021.06.05.01.19.05 (GPLv3)"
+apptitle="Arch Linux Fast Install (arch.sh) - Version: 2021.06.05.01.19.05 (GPLv3)"
 baseurl=http://downloads.sourceforge.net/project/archfi/release/2021.06.05.01.19.05
 cpl=0
 skipfont="0"

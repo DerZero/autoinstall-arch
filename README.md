@@ -1,4 +1,7 @@
 # autoinstall-arch
+
+YOUTUBE Video https://youtu.be/u2EdSpMywfw
+
 use
 Download scripts
 command for ArchLinux

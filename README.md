@@ -15,3 +15,4 @@ git clone https://github.com/DerZero/autoinstall-arch.git && cd autoinstall-arch
 
 
 
+TON-COIN: EQClw9-KCig6iTltL58QxjSdmf2-hguBUztoXiDsIv23Oi1G
